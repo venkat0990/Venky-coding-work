@@ -9,4 +9,4 @@ import numpy
 
 Signal is a mathematical entity which represents something that changes with time. Wave is a discrete version of a signal. Wave can move back and forth between time and frequency domain
 
-The python file is "Phone call audio sound processing using python.ipynb" which used music files "music.wav" and "music1.wav" Please find these files attached in the latest commit
+The python file is "Phone call audio sound processing using python.ipynb" which used music files "music.wav" and "music1.wav" Please find these files attached in the commit or through the coding platform
