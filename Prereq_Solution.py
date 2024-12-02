@@ -27,4 +27,4 @@ docker-compose up --build
 
 Conclusion
 This microservice architecture integrates a UI backend for image handling with an AI backend for object detection using a lightweight model.
-Docker provides a streamlined way to manage and deploy both services, ensuring that the entire solution runs seamlessly in a containerized environment.
+Docker provides a streamlined way to manage and deploy both services, ensuring that the entire solution runs seamlessly in a containerized environment.'''
